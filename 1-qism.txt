@@ -1,3 +1,4 @@
 1-o'zgarishlar
 git pull uchun
 git fetch uchun
+master yozdi
