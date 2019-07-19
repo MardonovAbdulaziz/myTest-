@@ -2,3 +2,4 @@
 git pull uchun
 git fetch uchun
 master yozdi
+test o'zgartirdi
